@@ -1,0 +1,5 @@
+git add -- . 
+git status
+git commit ten_file -m 'noi dung comment'
+git pull
+git push -u origin main
