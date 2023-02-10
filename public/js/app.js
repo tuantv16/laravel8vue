@@ -2382,7 +2382,7 @@ var staticRenderFns = [
                 _vm._v(" "),
                 _c("p", [
                   _vm._v(
-                    "Quisque nec facilisis sem. In at commodo velit. Aliquam tempor volutpat laoreet. Quisque non tellus eleifend arcu gravida aliquam. Vivamus quis consequat nisl, nec luctus libero. Nam sodales sem\n                            egestas sem blandit volutpat. "
+                    "Quisque nec facilisis sem. In at commodo velit. Aliquam tempor volutpat laoreet. Quisque non tellus eleifend arcu gravida aliquam. Vivamus quis consequat nisl, nec luctus libero. Nam sodales sem\r\n                            egestas sem blandit volutpat. "
                   ),
                 ]),
               ]),
@@ -19389,8 +19389,8 @@ __webpack_require__.r(__webpack_exports__);
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! F:\Project2\laravel8vue\resources\js\app.js */"./resources/js/app.js");
-module.exports = __webpack_require__(/*! F:\Project2\laravel8vue\resources\css\app.css */"./resources/css/app.css");
+__webpack_require__(/*! E:\Project2\laravel8vue\resources\js\app.js */"./resources/js/app.js");
+module.exports = __webpack_require__(/*! E:\Project2\laravel8vue\resources\css\app.css */"./resources/css/app.css");
 
 
 /***/ })
